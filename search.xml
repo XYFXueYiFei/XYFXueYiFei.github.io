@@ -3,7 +3,7 @@
   <entry>
     <title>【开放测试】YF-Hub|文件传输系统使用教程</title>
     <url>/2025/08/08/YFHub/</url>
-    <content><![CDATA[<p>【开放测试】YF-Hub|文件传输系统使用教程暨第一篇博文</p>
+    <content><![CDATA[<p>【开放测试】YF-Hub|文件传输系统使用教程暨第一篇博文<br>（每个步骤都有图片，若未载出请稍等图片加载）</p>
 <p>本系统基于 <a href="https://github.com/MarSeventh/CloudFlare-ImgBed" target="_blank" data-v-5d5649c4>Github开源项目 </a> 的文件传输系统</p>
 <p>使用教程来啦：</p>
 <p>###1：登录系统<br>首先进入系统测试网址：<a href="https://hub.xyf.edu.kg/">https://hub.xyf.edu.kg/</a> 测试期间请联系作者获取密码登录使用<br><img src="https://hub.xyf.edu.kg/file/Z95pjNrR.png"></p>
@@ -13,13 +13,13 @@
 <p>###5：上传文件<br>当你选择好你上传的文件后，稍作等待，上方会弹窗“上传成功”，同时系统会生成4种不同的链接<br><img src="https://hub.xyf.edu.kg/file/RWwGoQEK.png"></p>
 <p>###6：复制链接<br>选择自己需要的链接，点击一下即可复制；或者直接点击右上角的链接图标，默认复制Url链接<br>链接为直链下载，不限速哦<br><img src="https://hub.xyf.edu.kg/file/5x0JxbdB.png"></p>
 <p>###7：特殊设置<br>如果对于特殊的文件（通常为图片）需要上传，可以通过右下角的上传设置更改<br>一般透明底文件、图片坦克需要进行此设置<br><img src="https://hub.xyf.edu.kg/file/SMgR8BVF.png"></p>
-<p>###8：特殊设置<br>打开设置界面后，为了保证传输速度，默认是开启压缩的<br><img src="https://hub.xyf.edu.kg/file/Moe2tTh5.png"></p>
-<p>###9：特殊设置</p>
+<p>###8：查看当前设置<br>打开设置界面后，为了保证传输速度，默认是开启压缩的<br><img src="https://hub.xyf.edu.kg/file/Moe2tTh5.png"></p>
+<div>###9：修改压缩设置</div>
 <div>大家可以手动关闭或调整两项压缩设置</div>
 <div style="color:red">注意！其它设置请勿改动，改动后会导致文件无法上传或其他错误！！！ </div>
 <img src="https://hub.xyf.edu.kg/file/XJPgmufZ.png">
 
-<p>The End<br>至此，教程完毕，大家可以尝试使用本系统进行日常工作啦<br>无论是临时文件传输、压缩包等文件中转还是特殊需求，都可以使用<br>如果有系统相关问题以及获取密码，请联系作者邮箱<br>联系邮箱：<a href="mailto:&#97;&#100;&#x6d;&#x69;&#x6e;&#64;&#x6d;&#x61;&#105;&#108;&#46;&#120;&#121;&#102;&#46;&#x65;&#100;&#x75;&#46;&#x6b;&#103;">&#97;&#100;&#x6d;&#x69;&#x6e;&#64;&#x6d;&#x61;&#105;&#108;&#46;&#120;&#121;&#102;&#46;&#x65;&#100;&#x75;&#46;&#x6b;&#103;</a></p>
+<p>The End<br>至此，教程完毕，大家可以尝试使用本系统进行日常工作啦<br>无论是临时文件传输、压缩包等文件中转还是特殊需求，都可以使用<br>如果有系统相关问题以及获取密码，请联系作者邮箱<br>联系邮箱：<a href="mailto:&#97;&#x64;&#109;&#x69;&#x6e;&#64;&#109;&#x61;&#105;&#x6c;&#x2e;&#120;&#121;&#102;&#x2e;&#x65;&#x64;&#x75;&#46;&#107;&#x67;">&#97;&#x64;&#109;&#x69;&#x6e;&#64;&#109;&#x61;&#105;&#x6c;&#x2e;&#120;&#121;&#102;&#x2e;&#x65;&#x64;&#x75;&#46;&#107;&#x67;</a></p>
 <style>
 .video-container {
     position: relative;
